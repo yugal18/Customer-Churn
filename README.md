@@ -9,10 +9,16 @@ Total number of customer around 7043 but 27% of people to be churn which around 
 
 
 Steps involved in Model Deployment:
-Data Analysis (EDA)
+Data Analysis (EDA).
+
 Data Preprocessing.
+
 Feature Engineering.
-Feature Selection (SelectKBest)
-Fit into Algorithm (ML Algorithm)
-Hyper Parameter Tunning (GridSearchCV)
-Dump model (Pickle)
+
+Feature Selection (SelectKBest).
+
+Fit into Algorithm (ML Algorithm).
+
+Hyper Parameter Tunning (GridSearchCV).
+
+Dump model (Pickle).
